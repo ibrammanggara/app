@@ -3,7 +3,7 @@
 
 `sudo yum install nodejs -y`
 
-`yum install mysql`
+`sudo yum install mysql`
 
 # update npm
 `npm install -g npm@latest`
