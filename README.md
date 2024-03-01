@@ -8,6 +8,8 @@
 
 # db mysql
 `create database school;`
+
+
 `CREATE TABLE siswa (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nama VARCHAR(255),
