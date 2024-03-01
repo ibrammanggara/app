@@ -11,7 +11,7 @@
 
 
 `CREATE TABLE siswa (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id integer PRIMARY KEY,
     nama VARCHAR(255),
     kelas VARCHAR(50)
 );`
